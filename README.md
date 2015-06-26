@@ -1,4 +1,6 @@
 # CS160_PROG1
+Code by Android Studio
+
 The first programming assignment of CS160 summer 2015.
 Due on Friday, June 26, 2015
 
