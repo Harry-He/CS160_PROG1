@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Translate</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="translate_from_languages">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string-array name="translate_to_languages">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Chinese</item>
+        <item>All other languages</item>
+    </string-array>
+
+    <string-array name="phase0">
+        <item>hello</item>
+        <item>how much</item>
+        <item>please</item>
+        <item>thanks</item>
+        <item>goodbye</item>
+    </string-array>
+
+    <string-array name="phase1">
+        <item>hola</item>
+        <item>cuánto</item>
+        <item>Por favor</item>
+        <item>gracias</item>
+        <item>adiós</item>
+    </string-array>
+
+    <string-array name="phase2">
+        <item>你好</item>
+        <item>多少</item>
+        <item>请</item>
+        <item>谢谢</item>
+        <item>再见</item>
+    </string-array>
+
+</resources>
